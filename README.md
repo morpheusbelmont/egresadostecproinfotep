@@ -1,2 +1,2 @@
-# egresadostecproinfotep
-egresados
+# karacterizar
+caracterizar estudiantes
